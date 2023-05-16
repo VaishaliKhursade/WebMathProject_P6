@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="7" total="8" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-15T23:17:02 IST" name="Default suite" finished-at="2023-05-15T23:17:09 IST" duration-ms="7425">
+    <groups>
+    </groups>
+    <test started-at="2023-05-15T23:17:02 IST" name="Default test" finished-at="2023-05-15T23:17:09 IST" duration-ms="7425">
+      <class name="reusableMethods.WM_TS_2HYB">
+        <test-method is-config="true" signature="launch()[pri:0, instance:reusableMethods.WM_TS_2HYB@1e6454ec]" started-at="2023-05-15T23:17:02 IST" name="launch" finished-at="2023-05-15T23:17:07 IST" duration-ms="5346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="ToGeneralMath()[pri:0, instance:reusableMethods.WM_TS_2HYB@1e6454ec]" started-at="2023-05-15T23:17:07 IST" name="ToGeneralMath" finished-at="2023-05-15T23:17:09 IST" duration-ms="1528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToGeneralMath -->
+        <test-method signature="TC7()[pri:7, instance:reusableMethods.WM_TS_2HYB@1e6454ec]" started-at="2023-05-15T23:17:09 IST" name="TC7" finished-at="2023-05-15T23:17:09 IST" duration-ms="71" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC7 -->
+        <test-method is-config="true" signature="ToMainFrame()[pri:0, instance:reusableMethods.WM_TS_2HYB@1e6454ec]" started-at="2023-05-15T23:17:09 IST" name="ToMainFrame" finished-at="2023-05-15T23:17:09 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ToMainFrame -->
+        <test-method is-config="true" signature="close()[pri:0, instance:reusableMethods.WM_TS_2HYB@1e6454ec]" started-at="2023-05-15T23:17:09 IST" name="close" finished-at="2023-05-15T23:17:09 IST" duration-ms="437" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- reusableMethods.WM_TS_2HYB -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
